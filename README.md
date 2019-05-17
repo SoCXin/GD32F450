@@ -1,28 +1,25 @@
-﻿# [GD32F1](https://github.com/sochub/GD32F1) 
+﻿# [GigaDevice](https://github.com/sochub/GigaDevice)
+[![sites](SoC/qitas.png)](http://www.qitas.cn) 
+####  qitas@qitas.cn
+#### 父级：[vendor](https://github.com/sochub/vendor) 
 
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
+GigaDevice北京兆易创新，成立于2005年4月，是国内首家专业从事存储器及相关芯片设计的集成电路设计公司。
 
-#### 归属：[cortex M3](https://github.com/sochub/CM3)
+GD32系列产品兼容STM32相同规格产品，但主频提高约50%，可以相互替换，但在软件资源兼容性上还有些许不足。
 
-## [描述](https://github.com/sochub/GD32F1/wiki) 
+* [参考文档](docs/)
+* [参考资源](src/)
 
-[GD32F1](http://cn.gigadevice.com/product-category/17.html?locale=zh_CN) 是北京兆易创新兼容STM32F1的单片机系列，可以用于替换对应型号的STM单片机。
+###  [相关产品](https://github.com/sochub/GigaDevice)  
 
-## [组成](SoC/) 
+* [GD32F1](https://github.com/sochub/GD32F1)
+* [GD32F2](https://github.com/sochub/GD32F2)
+* [GD32F4](https://github.com/sochub/GD32F4)
 
-#### [文档资料](docs/)
+### [替换方案](https://github.com/sochub/GigaDevice)
 
-参考设计和数据手册
+* 替换方案 [意法ST](https://github.com/sochub/ST)
+* 替换方案 [德仪TI](https://github.com/sochub/TI)
+* 替换方案 [nuvoton](https://github.com/sochub/nuvoton)
 
-#### [项目文件](project/)
-
-包括各种开发资源和工程
-
-
-##### [相似产品](https://github.com/sochub/STM32F1)
-
----
-
-###  [SoC开发平台](http://www.qitas.cn)   
-
-###  qitas@qitas.cn
+##  [SoC资源平台](http://www.qitas.cn)
