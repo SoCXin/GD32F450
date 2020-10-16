@@ -1,25 +1,29 @@
-﻿# [GigaDevice](https://github.com/sochub/GigaDevice)
-[![sites](SoC/qitas.png)](http://www.qitas.cn) 
-####  qitas@qitas.cn
-#### 父级：[vendor](https://github.com/sochub/vendor) 
+﻿# [GigaDevice](https://github.com/SoCXin/GigaDevice)
 
-GigaDevice北京兆易创新，成立于2005年4月，是国内首家专业从事存储器及相关芯片设计的集成电路设计公司。
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-GD32系列产品兼容STM32相同规格产品，但主频提高约50%，可以相互替换，但在软件资源兼容性上还有些许不足。
+#### [vendor](https://github.com/SoCXin/vendor)
 
-* [参考文档](docs/)
-* [参考资源](src/)
+[GigaDevice](https://www.gigadevice.com/) 兆易创新成立于2005年4月，是国内首家专业从事存储器及相关芯片设计的集成电路设计公司。
 
-###  [相关产品](https://github.com/sochub/GigaDevice)  
 
-* [GD32F1](https://github.com/sochub/GD32F1)
-* [GD32F2](https://github.com/sochub/GD32F2)
-* [GD32F4](https://github.com/sochub/GD32F4)
+###  [相关产品](https://github.com/SoCXin/GigaDevice)
 
-### [替换方案](https://github.com/sochub/GigaDevice)
+* [GD32F130](https://github.com/SoCXin/GD32F130)
+* [GD32F103](https://github.com/SoCXin/GD32F103)
+* [GD32E103](https://github.com/SoCXin/GD32E103)
+* [GD32V103](https://github.com/SoCXin/GD32V103)
+* [GD32F350](https://github.com/SoCXin/GD32F350)
+* [GD32E230](https://github.com/SoCXin/GD32E230)
 
-* 替换方案 [意法ST](https://github.com/sochub/ST)
-* 替换方案 [德仪TI](https://github.com/sochub/TI)
-* 替换方案 [nuvoton](https://github.com/sochub/nuvoton)
+### [相关信息](https://github.com/SoCXin/vendor)
 
-##  [SoC资源平台](http://www.qitas.cn)
+GD32系列MCU产品兼容STM32相同规格产品，但主频等规格有提高，但在软件资源兼容性上还有些许不足。
+
+GD32体量较大但性价比渐低，对新技术和方案敏感度高会有各种新架构产品抢先推出。
+
+* [MM32](https://github.com/SoCXin/MM32)
+* [STM32](https://github.com/SoCXin/STM32)
+* [nuvoton](https://github.com/SoCXin/nuvoton)
+
+###  [SoC芯平台](http://www.SoC.Xin)
