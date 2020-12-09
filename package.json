@@ -1,0 +1,16 @@
+{
+    "name":"GD32F450",
+    "Core":"Cortex M4",
+    "Vendor":"GigaDevice",
+    "description":"Cortex M4 GD32F450 MCU",
+    "url":"https://github.com/SoCXin/GD32F450",
+    "keywords": [
+        "AES","DES","3DES","SM1","SM3","SM4","SM7","MD5","SHA1","SHA224","SHA256","CRC","TRANG",
+        "ADC","DAC","SDIO","CAN","USB","I2S","SPI",
+        "144MHz",
+        "LQFP144","LQFP100","BGA176",
+        "3.6V","1.8V"
+    ],
+    "homepage": "http://www.SoC.xin",
+    "version":"1.0.0"
+}
