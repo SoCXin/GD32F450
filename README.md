@@ -9,14 +9,15 @@
 
 [GD32F450](https://github.com/SoCXin/GD32F450)
 
-[![sites](docs/GD32F450.png)](https://github.com/SoCXin/GD32F450)
+<!-- [![sites](docs/GD32F450.png)](https://github.com/SoCXin/GD32F450) -->
 
 ##### 关键特性
 
-* SPI + USART + IIC
-* 12bit ADC
-* RTC
-* 封装(LQFP64/LQFP48/QFN32/QFN28/TSSOP20)
+* IPA
+* ETH-MAC
+* USB(OTG)
+* CAN
+* 封装(LQFP144/LQFP100/BGA176)
 
 ### [资源收录](https://github.com/SoCXin/GD32F450)
 
