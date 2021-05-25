@@ -1,0 +1,27 @@
+{
+    "type":"MCU",
+    "name":"GD32F450",
+    "Freq":"200MHz",
+    "Core":"Cortex-M4",
+    "title": "GigaDevice GD32F450 MCU",
+    "description":"GigaDevice Cortex-M4 MCU",
+    "manufacturer": {
+        "vendor":"gigadevice",
+        "homepage":"https://www.gigadevice.com/zh-hans/products/microcontrollers/gd32/arm-cortex-m4/?fwp_processor_type=cortex-m4&fwp_microcontrollers_product_series=gd32f450"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/GD32F450.git"
+    },
+    "version":"1.0.0",
+    "series":["GD32F450KC","GD32F450JC","GD32F450KE","GD32F450PE"],
+    "package":["UFBGA100","LQFP100","LQFP64","LQFP48","QFN60","QFN48"],
+    "peripheral": ["ADC","UART","I2C","SPI","PWM"],
+    "keywords": [
+        "AES","DES","3DES","SM1","SM3","SM4","SM7","MD5","SHA1","SHA224","SHA256","CRC","TRANG",
+        "ADC","DAC","SDIO","CAN","USB","I2S","SPI",
+        "144MHz",
+        "LQFP144","LQFP100","BGA176",
+        "3.6V","1.8V"
+    ]
+}
