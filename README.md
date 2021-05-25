@@ -17,19 +17,15 @@ Cortex®-M4内核包含一个浮点运算器(FPU)，可提高单精度浮点运�
 
 ### 关键特性
 
-* 4 x USART
-* 2 x 12bit 2.5MSPS ADC
-* 3 x CMP
-* PGA
+* 8 x UART
+* 2 x CAN
+* USB OTG
 
 #### 封装规格
 
-* UFBGA100 (7×7mm)
+* BGA176 (10×10mm)
 * LQFP100 (14×14mm)
-* LQFP64 (10×10mm)
-* LQFP48 (7×7mm)
-* QFN60 (7×7mm)
-* QFN48 (5×5mm)
+* LQFP144 (20×20mm)
 
 ### [选型建议](https://github.com/SoCXin)
 
